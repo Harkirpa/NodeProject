@@ -1,4 +1,4 @@
-const{bollywood,hollywood,fitness,technology,food}=require('../dummydata')
+const{bollywood,hollywood,fitness,technology,food}=require('./dummydata')
 
 const bollywoodController=(req,res)=>{
     return res.send(bollywood)

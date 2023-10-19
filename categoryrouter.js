@@ -1,4 +1,4 @@
-const {bollywoodController,hollywoodController,fitnessController,technologyController,foodController} =require('./controller/categorycontroller')
+const {bollywoodController,hollywoodController,fitnessController,technologyController,foodController} =require('.//categorycontroller')
 
 const categoryRouter=require("express").Router();
 
