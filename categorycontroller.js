@@ -1,7 +1,10 @@
 const{bollywood,hollywood,fitness,technology,food}=require('./dummydata')
 
 const bollywoodController=(req,res)=>{
-    return res.send(bollywood)
+    const id=req.params.id
+      const data=bollywood.find((item)=>item.id==id)
+      console.log(data)
+    return res.send(data)
 }
 
 const hollywoodController=(req,res)=>{
