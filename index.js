@@ -2,6 +2,10 @@ const express=require("express");
 const categoryRouter=require('./categoryrouter')
 const PORT=4001
 const app=express();
+const cors = require('cors');
+app.use(cors({
+    origin: '*'
+}));
 app.use('/api',categoryRouter)
 app.get('/',(req,res)=>{
     res.send('API is running fine')
