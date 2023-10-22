@@ -1341,6 +1341,28 @@ const bollywood=[
          largdesc:"In creating Disney's new movie Haunted Mansion, members of the visual effects team took walks through the iconic Haunted Mansion ride for inspiration.In the ride, which first opened in 1969 at Disneyland, guests walk through the gate and into the Mansion before being guided into “Doom Buggies” in which they ride through the haunted house and meet many ghosts along the way.",
       cat: "Hollywood",
     },
+    {
+          id: 57,
+          heading:
+            "Comic Creators Hit the Picket Line: “It's a Love That Gets Exploited",
+          image:
+            "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/IMG_4304-H-2023.jpg?w=1296&h=730&crop=1&resize=681%2C383",
+          description:
+            "With great corporate power should come great responsibility. And with that ethos in mind, comic book creators joined Writers Guild of America",
+             largdesc:"With great corporate power should come great responsibility. And with that ethos in mind, comic book creators joined Writers Guild of Americamembers on the picket line Thursday, protesting what they called the exploitation of the most vulnerable.",
+          cat: "Hollywood",
+         },
+         {
+          id: 58,
+          heading:
+            "Mark Ronson Says Lady Gaga's “Joanne” for 'A Star Is Born'",
+          image:
+            "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/Mark-Ronson-a-star-is-born-getty-everett-H-2023.jpg?w=1296&h=730&crop=1&resize=681%2C383",
+          description:
+            "We were working on Gaga's album Joanne and Bradley Cooper stopped by the studio one afternoon. I like his films.",
+             largdesc:"Mark Ronson Says He Wouldn't Let Bradley Cooper Use Lady Gaga's “Joanne” for 'A Star Is Born' We were working on Gaga's album Joanne and Bradley Cooper stopped by the studio one afternoon. I like his films.He showed up looking like a movie star. So we hung out,” Ronson recalled. “He was really sweet, talking about this new script that they were both doing. I played him the song called ‘Joanne’ and he’s like, ‘That’s great, can I have it?’",
+          cat: "Hollywood",
+        }
   ]
   const food=[
     {
